@@ -1,4 +1,4 @@
 # Guess-My-Number
 
-<p><b>A waste of time😂</b></p>
-<P>Not much else to say😁</P>
+<p><b>Time is wasted on this kind of thing😂</b></p>
+
