@@ -1,4 +1,4 @@
-# Guess-My-Number
+# Guess My Number
 
 <p><b>My first javascript project🙂</b></p>
 
